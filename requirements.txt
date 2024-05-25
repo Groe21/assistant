@@ -1,0 +1,10 @@
+setuptools
+pyttsx3 
+pyaudio 
+requests 
+wolframalpha
+wikipedia
+SpeechRecognition
+ecapture
+twilio
+beautifulsoup4
